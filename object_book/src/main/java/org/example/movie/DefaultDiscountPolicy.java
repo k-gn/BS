@@ -1,4 +1,4 @@
-package org.example.chap2;
+package org.example.movie;
 
 import java.util.ArrayList;
 import java.util.List;

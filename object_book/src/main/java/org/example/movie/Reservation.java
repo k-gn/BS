@@ -1,4 +1,4 @@
-package org.example.chap2;
+package org.example.movie;
 
 public class Reservation {
 

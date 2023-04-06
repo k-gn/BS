@@ -1,4 +1,4 @@
-package org.example.chap1;
+package org.example.ticket;
 
 public class Theater {
 

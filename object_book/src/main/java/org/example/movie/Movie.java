@@ -1,6 +1,5 @@
-package org.example.chap2;
+package org.example.movie;
 
-import javax.management.Query;
 import java.time.Duration;
 
 public class Movie {
