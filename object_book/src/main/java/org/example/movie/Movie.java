@@ -9,6 +9,12 @@ public class Movie {
     private DiscountPolicy discountPolicy;
     private Money fee;
 
+    private MovieType movieType;
+
+    private Money discountAmount;
+
+    private double discountPercent;
+
     public Movie(String title, Duration runningTime, DiscountPolicy discountPolicy, Money fee) {
         this.title = title;
         this.runningTime = runningTime;
