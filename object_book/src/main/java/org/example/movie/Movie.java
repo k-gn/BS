@@ -119,6 +119,7 @@ public class Movie {
         - 가장 중요한 것은 "책임" 이다!
      */
     public Money calculateMovieFee(Screening screening) {
+        // 객체에 실제 타입에 따라 실행되는 메서드는 다르다.
         return fee.minus(discountPolicy.calculateDiscountAmount(screening));
     }
 
